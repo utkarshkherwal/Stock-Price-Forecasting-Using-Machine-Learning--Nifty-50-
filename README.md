@@ -1,0 +1,2 @@
+# Stock Price Forecasting Using Machine Learning (Nifty 50)
+This project uses machine learning to predict the daily closing prices of Nifty 50 stocks based on historical price data. By comparing the performance of three popular models—Linear Regression, Random Forest, and XGBoost—it identifies which model forecasts stock prices most accurately. The project retrieves real-time data using yfinance, prepares it for time series modeling, and visualizes the results to support smarter financial decision-making.
